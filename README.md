@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clayton Abel</h1>
-<h3 align="center">A passionate Full Stack developer from Austin Texas</h3>
+<h3 align="center">An eager Full Stack developer from Austin Texas</h3>
 
 ## About Me
 
