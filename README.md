@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/clayton-abel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clayton-abel" height="30" width="40" /></a>
 </p>
-
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 <a src="https://hackerrank-badge.herokuapp.com/clabel95" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></a>
 
 <h3 align="left">Languages and Tools:</h3>
